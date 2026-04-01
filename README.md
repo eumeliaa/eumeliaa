@@ -1,7 +1,6 @@
-- Hi!! I'm eumelia
-- I'm currently in Y12 and take A-Level Computer Science
-- I'm learning python and have a focus on creating finance-related projects
-- Feel free to reach out on insta: @eumelia._
+Hey! I'm Eumelia.
+
+I'm currently attending the University of California, San Diego with a major in BS Economics and minor in BS Data Science. 
 
 <!---
 eumeliaa/eumeliaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
